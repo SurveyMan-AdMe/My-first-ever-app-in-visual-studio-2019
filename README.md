@@ -1,0 +1,1 @@
+# HEHEHE HA | This is my first app ever created in visual studio 2019 so yeah uhm it was a fun expierince trying out C# for the first time and i think it is kinda hard but I sugest trying it out if you havent already!
